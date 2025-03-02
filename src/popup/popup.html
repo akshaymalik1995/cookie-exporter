@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cookie Exporter</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="container">
+        <!-- <h1>Cookie Exporter</h1> -->
+        <div class="status-message hidden" id="status"></div>
+        <button id="exportBtn" class="btn primary">Export Cookies</button>
+        <div class="result-container hidden" id="resultContainer">
+            <pre id="cookieOutput"></pre>
+            <div class="action-buttons">
+                <button id="copyBtn" class="btn secondary">Copy</button>
+                <button id="downloadBtn" class="btn secondary">
+                    Download
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="popup.js" type="module"></script>
+</body>
+</html>
