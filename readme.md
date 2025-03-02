@@ -42,6 +42,7 @@ The extension is built using:
 
 ### Project Structure
 
+```
 cookie-exporter/
 ├── assets/
 │   └── icons/
@@ -52,7 +53,7 @@ cookie-exporter/
 │       └── popup.js
 ├── background.js
 └── manifest.json
-
+```
 
 ## Security
 
