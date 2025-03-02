@@ -2,7 +2,8 @@
 
 A Chrome extension that allows you to easily export cookies from the current domain in JSON format.
 
-![Screenshot 2025-03-02 235440](https://github.com/user-attachments/assets/39db5af7-bcaa-4ca8-85f5-f2b1009b790d)
+![image](https://github.com/user-attachments/assets/f78a45ac-e82f-44e0-97e4-5f89ebce93d9)
+
 
 
 ## Features
